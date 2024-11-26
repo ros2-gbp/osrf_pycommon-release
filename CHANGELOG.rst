@@ -1,3 +1,21 @@
+2.1.4 (2023-08-21)
+------------------
+* Catch all of the spurious warnings from get_event_loop. (`#94 <https://github.com/osrf/osrf_pycommon/issues/94>`_)
+* Contributors: Chris Lalancette
+
+2.1.3 (2023-07-11)
+------------------
+* Add bookworm as a python3 target (`#91 <https://github.com/osrf/osrf_pycommon/issues/91>`_)
+* Suppress warning for specifically handled behavior (`#87 <https://github.com/osrf/osrf_pycommon/issues/87>`_)
+* Update supported platforms (`#93 <https://github.com/osrf/osrf_pycommon/issues/93>`_)
+* Add GitHub Actions CI workflow (`#88 <https://github.com/osrf/osrf_pycommon/issues/88>`_)
+* Contributors: Scott K Logan, Tully Foote
+
+2.1.2 (2023-02-14)
+------------------
+* [master] Update maintainers - 2022-11-07 (`#89 <https://github.com/osrf/osrf_pycommon/issues/89>`_)
+* Contributors: Audrow Nash
+
 2.1.1 (2022-11-07)
 ------------------
 * Declare test dependencies in [test] extra (`#86 <https://github.com/osrf/osrf_pycommon/issues/86>`_)
