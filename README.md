@@ -1,3 +1,26 @@
+## osrf_pycommon (humble) - 2.1.6-1
+
+The packages in the `osrf_pycommon` repository were released into the `humble` distro by running `/usr/bin/bloom-release -r humble -y osrf_pycommon` on `Tue, 25 Mar 2025 13:10:26 -0000`
+
+The `osrf_pycommon` package was released.
+
+Version of package(s) in repository `osrf_pycommon`:
+
+- upstream repository: https://github.com/osrf/osrf_pycommon.git
+- release repository: https://github.com/ros2-gbp/osrf_pycommon-release.git
+- rosdistro version: `2.1.4-1`
+- old version: `2.1.4-1`
+- new version: `2.1.6-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.24.0`
+- rosdistro version: `0.9.1`
+- vcstools version: `0.1.42`
+
+
 ## osrf_pycommon (jazzy) - 2.1.5-1
 
 The packages in the `osrf_pycommon` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --track jazzy --rosdistro jazzy osrf_pycommon` on `Wed, 18 Dec 2024 03:44:56 -0000`
