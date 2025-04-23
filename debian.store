@@ -1,1 +1,1 @@
-{"base": "66151fb", "parent": "debian/rolling/osrf_pycommon", "previous": "bed615c", "trim": "", "trimbase": ""}
+{"base": "a777cd1b1037", "parent": "debian/kilted/osrf_pycommon", "previous": "f9faa34b2663", "trim": "", "trimbase": ""}
