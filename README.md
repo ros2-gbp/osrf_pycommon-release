@@ -1,3 +1,26 @@
+## osrf_pycommon (kilted) - 2.1.6-1
+
+The packages in the `osrf_pycommon` repository were released into the `kilted` distro by running `/home/cottsay/infra_ws/install/bloom/bin/bloom-release osrf_pycommon -r kilted` on `Mon, 12 May 2025 22:48:12 -0000`
+
+The `osrf_pycommon` package was released.
+
+Version of package(s) in repository `osrf_pycommon`:
+
+- upstream repository: https://github.com/osrf/osrf_pycommon.git
+- release repository: https://github.com/ros2-gbp/osrf_pycommon-release.git
+- rosdistro version: `2.1.4-3`
+- old version: `2.1.4-3`
+- new version: `2.1.6-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## osrf_pycommon (jazzy) - 2.1.6-1
 
 The packages in the `osrf_pycommon` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --rosdistro jazzy --track jazzy osrf_pycommon` on `Sun, 06 Apr 2025 07:20:07 -0000`
