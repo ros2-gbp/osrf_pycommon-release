@@ -1,3 +1,12 @@
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Changelog for package osrf_pycommon
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+2.1.7 (2025-07-30)
+------------------
+* Fix setuptools deprecations (`#105 <https://github.com/osrf/osrf_pycommon/issues/105>`_)
+* Contributors: mosfet80
+
 2.1.6 (2025-03-25)
 ------------------
 * Merge pull request `#103 <https://github.com/osrf/osrf_pycommon/issues/103>`_ from christophebedard/christophebedard/fix-typo-on-each-verb
